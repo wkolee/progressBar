@@ -1,0 +1,30 @@
+button{
+            color: aqua;
+            width: 200px;
+            height: 50px;
+            margin-top: 100px;
+            margin-left: 300px;
+            margin-bottom: 0em;
+            text-align: center;
+            background-color: coral;
+        }
+        
+        body {
+            background-color: darkgray;
+            width: 750px;
+            margin: 0 auto;
+          }
+        .progressBar{
+            margin-top: 90px;
+            background-color: green;
+            color: black;
+            width: 0;
+            height: 20px;
+            text-align: center;
+            border-radius:200px;
+        }
+.con{
+    scroll-behavior: auto;
+    height: auto;
+    background-color: black;
+}
